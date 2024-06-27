@@ -1,0 +1,6 @@
+version: "0.0.1"
+description: "This is a component for basic learing about ESP-IDF."
+license: "Apache-2.0"
+registry_url: "https://components-file.espressif.com"
+dependencies:
+    idf: ">=5.1"
